@@ -59,3 +59,10 @@ header a{
     background-color: #85B4D5;
     transform: scale(1.05);
 }
+
+footer{
+    background-color: #85929C;
+    text-align: center;
+    color:white;
+    padding: 10px;
+}
